@@ -4,7 +4,7 @@ matriz=[
 ]
 print("mostrar la matriz")
 for fila in matriz:
-print(fila)
+""" print(fila) """
 """ mostrar una valor especifico """
 print("mostrar 6")
 print(matriz[1][2])
